@@ -1,0 +1,45 @@
+body{
+  background-image: url(background.jpg);
+}
+.header{
+  width: 98%;
+  margin-top: 10px;
+  background-color: black;
+  height: 225px;
+  border-radius: 20px;
+  border-width: 2px;
+  background-color: black;
+  border-style: solid;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#name{
+  width: 50%;
+  height:100px;
+  background-color: white;
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: solid;
+  color: black;
+  box-shadow:5px 10px 25px white;
+}
+
+#footlocker{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+height: 50px;
+  color: white;
+  background-color: black;
+  font-size: 10px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+canvas{
+  border: black;
+  border-radius: 20px;
+  border-width: 5px;
+  border-style: solid;
+  color: black;
+  box-shadow:15px 30px 25px black;
+}
